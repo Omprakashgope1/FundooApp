@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c2VHInI8wTcfLDt1RTPuMN/bhtlyaNDk7Ee3y7hRU8I=",
+  "Source": "MessageReceiver",
+  "BasePath": "_content/MessageReceiver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

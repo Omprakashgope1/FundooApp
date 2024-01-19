@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "L9tmlE+nPTyIMJP5T1TCmBTr0GPZqEExRxw/T0wTlMA=",
+  "Source": "DemoFundoo",
+  "BasePath": "_content/DemoFundoo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\OM\\source\\repos\\DemoFundoo\\MessageReceiver\\MessageReceiver.csproj",
+      "Version": 2,
+      "Source": "MessageReceiver",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
